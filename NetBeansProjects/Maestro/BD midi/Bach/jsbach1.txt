@@ -1,0 +1,3 @@
+V0 D#3q D#3q D#3q A#4q A#4q A#4i G#4i G#4q G4i F4i F4q A#3q D#5q G3q C5q C5q F5q F5q A#4q A#4q A#4q A#4i G#4i G#4q 
+V1 Rh A#4q G5q G#3q G5i F5i G#3q D#5i D5i G#3q C5i A#4i G3q A#4q G#5q F4q G#5q D4q G#5i G5i D#4q G5i F5i G#3q D5q A#3q 
+V2 Rh G5q D#3q G5q G#3q F5q G#3q D5q G#3q Rq D#5q F3q G#5q D4q G#5q D#4q G5q G#3q F5i D#5i A#3q 

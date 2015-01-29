@@ -1,0 +1,7 @@
+V0 C3h C5h D#5h C4h G4h D#5h Rh C5h C5h F4h D#5h A#3h Rh A#4h A#4h A#4h A#4h D5h Rh C5h C5h F4h D#5h A#3h Rh G4h D#4h G4h G4h A#4h Rh C5h C5h F4h C5h A#3h A#4h A#4h A#4h 
+V1 C4h G4h G5h C3h C5h G5h C4h G4h D#5h D6q C6q F5h A#4h Rh D5h D5h D5h D5h F5h Rh D#5h D#5h D6q C6q F5h A#4h Rh A#4h G4h D5w. Rh F5h D#5h B4h F5h A#4h D5h F4h D5h 
+V2 Rh D#5h C5h Rh D#5h C5h Rh D#5h G5h F3h A5q F5q D5h Rh F5w G5q D5q F5w Rh G5w D7q C7q C5h D5h Rh D5h A#4h D6w. Rh G5w D6q C6q A5q F5q C#5h Rh D#5h F5h G3h 
+V3 Rw. Rw. Rh G5w D7q C7q C5h F5h Rh F6w G5h F5h A#5h C4h G4h G5h F3h A5q F5q F5h Rh D5h C#5h Rh A#4h D5h Rh G6w D7q C7q A4h F5h Rh F5w 
+V4 Rw. Rw. Rh G6w Rh A6q F6q A#2h Rw F5h G3h F6w Rh G6w Rh A6q F6q A#2h Rh D6h D#3h Rh D5h G5h C4h G4h G5h F3h A6q F6q A#2h Rh F6w 
+V5 Rw. Rw. Rw. Rw A#5h Rw. G6q D6q A#3h Rw. Rw. A#5h Rw D#5q A#4q Rw. Rw. Rw A#5h 
+V6 Rw. Rw. Rw. Rw A#6h A#3h F4h Rw. Rw. Rw. A#6h A#3h G3h D#6q A#5q G3h Rw. Rw. Rh A#6h A#3h 

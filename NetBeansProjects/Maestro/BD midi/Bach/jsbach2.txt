@@ -1,0 +1,14 @@
+V0 Rw. C3q. Ri D3q. Ri A#2q. Ri D#3w Rh C3q. Ri F3q. Ri G#5q F3q G3w Rh D#3q. Ri B2q. Ri C3q. Ri C3q. Ri A#2q. Ri D#3q. Ri G#2q. Ri A#2q. Ri D#3w. Rh D#3q. Ri D#3q. 
+V1 Rw. C3q. Ri D4q. Ri A#3q. Ri D#4w Rh C4q. Ri F4q. Ri G#5q F3q G4w Rh D#4q. Ri B3q. Ri C4q. Ri C4q. Ri A#3q. Ri D#4q. Ri G#3q. Ri A#2q. Ri D#4w. Rh D#4q. Ri D#4q. 
+V2 Rw. C4q. Ri D4q. Ri A#3q. Ri D#4w Rh C4q. Ri F4q. Ri C6q F4q G4w Rh D#4q. Ri B3q. Ri C4q. Ri C4q. Ri A#3q. Ri D#4q. Ri G#3q. Ri A#3q. Ri D#4w. Rh D#4q. Ri D#4q. 
+V3 Rw. C4q. Ri D4q. Ri A#3q. Ri D#4w Rh C4q. Ri F4q. Ri C6q F4q G4w Rh D#4q. Ri B3q. Ri C4q. Ri C4q. Ri A#3q. Ri D#4q. Ri G#3q. Ri A#3q. Ri D#4w. Rh D#4q. Ri D#4q. 
+V4 Rw. C4q. Ri F5q. Ri D5q. Ri D#5w Rh G5q. Ri G#5q. Ri C6q F4q G5w Rh G5q. Ri G5q. Ri D#5q. Ri D#5q. Ri D5q. Ri D#5q. Ri D#5q. Ri A#3q. Ri A#4w. Rh D#5q. Ri F5q. 
+V5 Rw. D#5q. Ri F5q. Ri D5q G5q D#5w Rh G5q. Ri G#5q. Ri D#6q. Ri G5w Rh G5q. Ri G5q F5q D#5q G5q D#5q. Ri D5q F5q D#5q. Ri D#5q. Ri D5q. Ri A#4w. Rh D#5q. Ri F5q. 
+V6 Rw. D#5q. Ri F5q. Ri D5q G5q D#5w Rh G5q. Ri G#5q. Ri D#6q B5q G5w Rh G5q. Ri G5q F5q D#5q G5q D#5q. Ri D5q F5q D#5q. Ri D#5q. Ri D5q G#5q A#4w. Rh D#5q. Ri F5q. 
+V7 Rw. D#5q. Ri A#5q. Ri G#5q G5q D#3w Rh D#6q. Ri D6q. Ri D#6q B5q B5w Rh C6q. Ri G5q F5q C3q. Ri G#5q. Ri G5q F5q D#3q. Ri F5w D#5w. Rh G5q. Ri A5q. 
+V8 Rw. G5q. Ri A#5q. Ri G#5q Rq G5w Rh D#6q. Ri D6q. Rq. B5q G3w Rh C6q. Ri D6q. Ri D#6q. Ri G#5q. Ri G5q Rq G5q. Ri F5q. Ri D5q G#5q D#5w. Rh G5q. Ri A5q. 
+V10 Rw. G5q. Ri A#5q. Ri G#5q Rq G5w Rh D#6q. Ri D6q. Rh Ri B5w Rh C6q. Ri D6q Rq D#6q G5q C3q. Ri G5q Rq G5q. Ri F5q. Ri A#5q G#5q D#3w. Rh G5q. Ri A5q. 
+V11 Rw. G5q. Ri A#5q. Ri A#2q. Ri G5w Rh D#6q. Ri F3q. Rh Ri B5w Rh C6q. Ri B2q. Ri D#6q Rq G#5q. Ri A#5q. Ri G5q. Ri C6q. Ri A#5q Rq D#5w. Rh A#5q. Ri C6q. 
+V12 Rw. C6q. Rh Ri A#5q. Ri A#5w Rw F6q. Rh Ri D6w Rw D6q Rh. G#5q. Ri A#2q. Ri A#5q. Ri C6q. Ri A#5q Rq G5w. Rh A#5q. Ri C6q. 
+V13 Rw. C6q. Rh Ri A#5q Rq A#5w Rw F6q. Rh Ri D6w Rw. Rw A#5q Rq A#5q. Ri C6q. Rh Ri G5w. Rh A#5q. Ri D#3q. 
+V14 Rw. C6q. Ri D3q. Ri A#5q Rq A#5w Rh C3q. Ri F6q. Ri G#5q. Ri D6w Rh D#3q. Rw. Ri A#5q Rq A#5q. Ri G#2q. Rh Ri G5w. Rh D#3q. Ri C6q. Ri D3q. 

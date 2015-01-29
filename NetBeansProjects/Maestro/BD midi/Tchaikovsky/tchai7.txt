@@ -1,0 +1,5 @@
+V0 Rh D3w C#4q B3q A3h. G2q F#3h E3q F#3q E3q. Ri F#3q A3q B3q. Ri A3h Rh D4w C#4q B3q A3h. G2q F#3q. 
+V1 Rh D4w C#5q D5q E5q F#5q G5h A5h B5q A5q B5q. Ri A5q G5q F#5q. Ri A5h Rh G4h A4q B4q C#5q D5q E5q F#5q A5h A#5q. 
+V2 Rh G4h A4q B4q E5q F#5q A5q B5q C#6h D6h E6q D6q E6q. Ri D6q C#6q B5q. Ri C#6h Rh B4h C#5q D5q E5q F#5q A5q B5q C#6h C#6q. 
+V3 Rh B4h C#5q D5q A5q B2q C#6q D6q E6h F#6h E2q F#6q E2q. Ri F#6q A2q D6q. Ri A2h Rh E5h F#5q G5q C#3q B5q A2h. G3q F#2q. 
+V4 Rh E5h F#5q G5q C#3q B5q A2h. G3q F#2h G6q F#2q G6q. Ri F#2q E6q B2q. Ri E6h Rh D3w A5q B2q C#6q D6q E6h F#6q. Ri B2q 

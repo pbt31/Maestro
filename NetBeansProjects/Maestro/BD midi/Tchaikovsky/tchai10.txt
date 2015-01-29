@@ -1,0 +1,5 @@
+V0 Rq C#6q C6q A#5i. Rs A#4i. Rh. Rs C5i. Rh. Rs A#4i. Rq Rs A#4i. Rq Rs A4i. Rh. Rs F4i. Rh. Rs A#4i. Rh. Rs A4i. Rq Rs G4i. Rq Rs A4i. Rh. Rs A#4i. Rh. Rs C5i. 
+V1 Rw A#4i. Rh. Rs F5i. Rh. Rs C#5i. Rq Rs D#5i. Rq Rs C5i. Rh. Rs A#4i. Rh. Rs D#5i. Rh. Rs C5i. Rq Rs A#4i. Rq Rs C5i. Rh. Rs C#5i. Rh. Rs F5i. 
+V2 Rw C#5i. Rh. Rs A5i. Rh. Rs F#5i. Rq Rs F#5i. Rq Rs F5i. Rh. Rs F5i. Rh. Rs F#5i. Rh. Rs F5i. Rq Rs F5i. Rq Rs F5i. Rh. Rs F5i. Rh. Rs A5i. 
+V3 Rw F5i. Rh. Rs C6i. Rs D#6q C#6q C6i. Rs F#4i. Rq Rs C6i. Rs C6q F4i. Rh. Rs A#5q C6q C#6i. Rs F6q C4i. Rh. Rs A5q F5i. Rs C#4i. Rq Rs A5i. Rs C#6q C6q A#5i. Rs A#4i. Rh. Rs C6i. Rs D#6q C#6q 
+V4 Rw A5q A#5q F6i. Rs F6q F4i. Rh. Rs A5q A#5q D#4i. Rq Rs F5i. Rs F5q G5q A5i. Rs C#4i. Rh. Rs D#6q C#6q C6i. Rs A#5i. Rs F4i. Rq Rs A#5q G5q F4i. Rh. Rs A5q A#5q F6i. Rs F6q F4i. 

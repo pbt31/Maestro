@@ -1,0 +1,14 @@
+V0 Rh. D4q D4i A5i D5q. Ri C#5i E6i A4i E6i D4q D4i A5i D5q. Ri C#5i E6i A4i E6i D4q D4q A3q D4q G4i F#4i E4i D4i A4i A5i C#6i E6i C#6i A5i A3i D5i F#5i A5i F#5i D5i A5i A5i A4i E6i G4i A5i F#4i F#5i F#4i C#6i E4i F#5i D#4i B5i B4i F#6i A4i B5i G4i F#4i G4i A4i B4i D#6i E4i B5i G4i G6i F#4i B5i 
+V1 Rh. D5i D5i D4i A5i D5q. Ri C#5i Ri A4i Ri D5i D5i D4i A5i D5q. Ri C#5i G6i A4i G6i D4i A5i D4i F#6i E4i C#6i F#4i F#6i G4i F#4i E4i D4i A4i A5i E6i G6i E6i C#6i A3i D5i F#5i A5i F#5i D5i A5i A5i A4i E6i G4i A5i F#4i F#5i F#4i C#6i E4i F#5i D#4i B5i B4i F#6i A4i B5i G4i F#4i G4i A4i B4i D#6i E4i B5i G4i G6i F#4i B5i E4i 
+V2 Rh. D5i D5i F#5i A5i F#5i D5i A3q C#5i Ri A4i Ri D5i D5i F#5i A5i F#5i D5i A3q C#5i Ri A4i Ri D4i A5i D4i F#6i E4i C#6i F#4i F#6i G4i F#4i E4i D4i A4i C#6i E6i G6i C#6i C#6i A3q E6i D6i C#6i B5i A5i A5i A4i Ri G4i Ri F#4i F#5i F#4i C#6i E4i F#5i D#4i B5i B4i F#6i A4i B5i G4i F#4i E5i F#6i B5i F#6i B5i Ri G4i Ri F#4i 
+V3 Rh. D5i D5i F#5i A5i F#5i D5i A5w F#5i A5i F#5i D5i A5w D4i F#6i E4i C#6i F#4i F#6i D5i A6i A5i F#6i A5i C#6i C#6i Ri E6i Ri A3i D5i E6i D6i C#6i B5i A5i Ri E5i Ri E5i Ri F#5i Ri C#5i Ri C#5i Ri B4i Ri F#5i Ri F#5i Ri B4i A6i G6i F#6i E6i F#6i E6i Ri B4i Ri B4i 
+V4 Rh. D6i D5i F#5i A5i F#5i D5i A5w F#5i A5i F#5i D5i A5w F#5i F#6i E5i C#6i D5i F#6i D5i A6i A5i F#6i A5i Ri A6i E6i G6i A5i A5i F#6i E6i D6i C#6i B5i C#6i Ri C#6i Ri C#6i Ri F#6i Ri A5i Ri A5i Ri F#6i Ri D#6i Ri D#6i Ri B6i A6i G6i F#6i E6i F#6i E4i Ri E6i Ri E6i 
+V5 Rh. Ri D5i F#5i A5i D5q. Ri F#6i Ri D6i Ri D5i D5i F#5i A5i D5q. Ri F#6i Ri D6i Ri D4i A5i A5i F#6i A5i C#6i A5i F#6i D4i A6i D6i F#6i C#6i Rh Ri D6i F#6i E6i D6i C#6i B5i C#6i Ri C#6i Ri C#6i Ri A6i Ri A5i Ri A5i Ri F#6w G6i A6i E6i Ri E6i Ri E6i Ri E6i 
+V6 Rh. Ri D5i F#5i Ri F#5i D5i A5w F#5i Ri F#5i D5i A5w A5i Ri C#6i Ri A5i Ri A5i A6i D6i F#6i E6i Rh Ri D6i F#6i G6i A5i E6i D5i C#6i Ri C#6i E6i C#6i A5i A6w D#6i Ri D#6i Ri B6i A6i G6i A6i F#6i Ri E6i Ri E6i G6i E6i B5i 
+V7 Rh. Ri D5i D4i Ri F#5i D5i A5w F#5i Ri F#5i D5i A5w D6i Ri G6i Ri D6i Ri D6i A6i G6i F#6i E6i Rh Ri D6i F#6i Ri F#6i F#5i D6i A3q Rh A6w D#6i Ri D#6i Ri B6i C7i B6i A6i B4i Ri E6i 
+V8 Rw F#5i Ri F#5i D5i A5w F#5i Ri F#5i D5i A5w D6i Ri A6i Ri D6i Ri B6i A6i D4i F#6i A3q Rh D6i A6i F#5i Rq. C#6i Rh Ri A6w Rh Ri C7i B6i Ri G6i Ri G6i 
+V10 Rw A5i A5i D6i Ri A5w D6i A5i D6i Ri A5w D6i Ri A6i Ri D6i Ri B6i Ri G6i Ri E6i Rh Ri F#6i Rh Ri A6i Rw Rq. F#6w B6i A4i G6i Ri G6i 
+V11 Rw. E6i Rh Ri D6i D5i Rq F#6i Ri E6i Ri A6i Ri F#6i Ri D6i A5i D6i Ri A6i Ri D6i Ri B6i Ri G6i Ri E6i Rw. Rw Rq. A6i Rh. C7i G4i Ri A6i D#6i G6i B5i 
+V12 Rw. Rh. F#6i D5i Rh G6i Rh Ri F#6i A5i A6i Ri A6i Ri F#6i Ri B6i Ri G6i Ri E6i 
+V13 Rw. Rh. Ri D5i Rw Rq A6w B6i D4i G6i D4i E6i 
+V14 Rw. Rh. Ri D5i D4i 

@@ -1,0 +1,14 @@
+V0 Rw C4h. E4q F4h. C4q F3w B4s Ri. G5q. Rt G5q. Ri. Rt A4i. C5s. Ri. Rt A4i. Rs F4w D#4w D4w C4q C4i. E5s. Ri. Rt G#5i. 
+V1 Rw F5h E5h D#5h D5h C#5h C#5h F#5s Ri. C6q. Rt C6q. Ri. Rt C5i. F5s. Ri. Rt C5i. Rs F5w D#5w D5w C4h B2h 
+V2 Rw Rq G#5h G#5h G#5h G#5h F5q F5h B5s Rq. Rs C5q C5q F3h C4q. Rt A3s Rt A#3h F3h G5w F5w C5h D4h 
+V3 Rw Rq C6h C6h C6h C6h C6q A#5q G#5q C4h. Rq F4w G#5w G5q C6q A#3h F5q G#5q B2h E5h D5h 
+V4 Rw. Rw. Rw C5h Rh F5w A#4q C#6q G#5h A#4q A#4i. D#5s. Ri. Rt G5q G#4q B4q B5q G#5q G5h F5h 
+V5 Rw. Rw. Rw G5q Rh. A5w C#5q A#4i. C#5s. Ri. Rt A#4i. Rs D#5q D#5i. G5s. Ri. Rt A#4i. Rs D5q F5q D5q B4q G4q G4i. G5s. 
+V6 Rw. Rw. Rw C6q Rh. C6h C6h F5q C#5i. F5s. Ri. Rt C#5i. Rs G5q G5i. C6s. Ri. Rt D#5i. Rs F5q G#5q G#5q F5q C5q C5i. C6s. 
+V7 Rw. Rw. Rw. Rh A4q F5i. C6s. Ri. Rt F5i. Rs C#6q F5i. C#6s. Ri. Rt G#5i. Rs C6q C6i. Rs G5q G5i. Rh Rs B5q G#5q C3h F5q 
+V8 Rw. Rw. Rw. Rh C5q C6i. Rs A4q C6i. Rq Rs C#6i. Rs A#4q A#5i. Rs D#3h A#4q C6i. Rs D3h Rh E5q E5i. Rs B4q 
+V10 Rw. Rw. Rw. Rh F5q Ri Rt A4s. C5q Rh Ri Rt A#4s. C#5q Rh Ri Rt A#4s. D#5q Rw Rq G5q G5i. Rs F5q 
+V11 Rw. Rw. Rw. Rh C6q Rq F5q Rh. G#5q Rh. G5q Rw Rq C6q C6i. Rs G#5q 
+V12 Rw. Rw. Rw. Rw C6q Rh. A#5q Rh. C6q Rw. Ri Rt C4s. 
+V13 Rw. Rw. Rw. Rw. Rw. Rw. Rq. Rt G4s. 
+V14 Rw. Rw. Rw. Rw. Rw. Rw. Rq. Rt C5s. 

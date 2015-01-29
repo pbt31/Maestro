@@ -1,0 +1,11 @@
+V0 Rw D#4q D#4q A#3h D#4h D#4q D#4q A#3q D#4q G#3q G#3q G#3w. D#4q D#4q D#4q D#4q D#4w D#4h D#4h A#3h. A#3q A#3q A#3q D#4w C4h A#3h D#4h D#4h 
+V1 Rw D#4q G4q D4h G4h G4q G4q D4q G4q D#4q D#4q D#4w. G4q G4q G4q G4q G4w G4h G4h D4h. D4i. Rs D4q D4q G4w D#4h D4h G4w 
+V2 Rw G4q G4q F4h G4h G4q G4q F4q A#4q G#4q G#4q G#4w. A#4q A#4q A#4q A#4q A#4w A#4h A#4h F4h. F4i. Rs F4i. Rs F4q A#4w G4h F4h G4h D#4h 
+V3 Rw G4q A#4q F4h A#4h A#4q A#4q A#4q A#4q C5q C5q C5w. A#4q A#4q A#4q A#4q A#4w A#4h A#4h A#4h. A#4q A#4q A#4q A#4w G4h A#4h A#4h G4h 
+V4 Rw A#4q A#4q A#4h A#4h A#4q A#4q A#4q D#5q C5q C5q C5w. D#5q D#5q D#5q D#5q D#5w D#5h D#5h A#4h. A#4q A#4q A#4q D#5w C5h A#4h A#4h G4h 
+V5 Rw A#4q D#5q A#4h D#5h D#5q D#5q D5q D#5q D#5q D#5q D#5w. D#5q D#5q D#5q D#5q D#5w D#5h D#5h D5h. D5q D5q D5q D#5w C5h D5h D#5h A#4h 
+V6 Rw D#5q D#5q A#3h D#5h D#5q D#4q D5q G5q D#5q D#5q D#5w. G5q G5q G5q G5q G5w G5h G5h D5h. D5q D5q D5q G5w D#5h D5h D#5h A#4h 
+V7 Rw D#5q D#4q D5h G5h Rq D#5q A#3q G5q G#3q G#5q G#5w. G5q D#4q G5q D#4q G5w D#4h G5h A#3h. F5q F5q F5q G5w C4h F5h G5h D#5h 
+V8 Rw. D5h G5h D#4q Rq F5q Rq G#5q G#5q G#3w. Rq G5q D#4q G5q D#4w G5h D#4h F5h. F5q A#3q F5q D#4w D#5h A#3h G5h D#5h A#3q 
+V10 Rw. F5h Rw F5q D#4q G#5q G#3q G#5w. D#4q Rw. Rw Rq F5h. A#3q F5q A#3q Rw. F5h D#4w 
+V11 Rw. F5h D#4h 

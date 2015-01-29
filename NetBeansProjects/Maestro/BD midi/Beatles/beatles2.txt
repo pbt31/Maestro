@@ -1,0 +1,11 @@
+V0 Rw. C4s A4s Rh E6i F6q A5i F3q F#3i G3w C4q G4h. A3q A3q G3q G3q C4i C4i C4i C4i C4i C4i C4i C4i F3q F4i F4i F3q F4i F4i C4i C4i C4i C4i C4i C4i C4i C4i F3q F4i F4i F3q F4i F4i F3q F3q F3q 
+V1 Rw. Rt F4s F5w. Rq Rt C6s B5s A5q B5q B5q. C5h Ri A3q A3q G3q G3q C4q C4q C4q C4q F4i F4i D5i C5i F4i F4i D5i C5i C4q C4q C4q C4q F4i F4i D5i C5i F4i F4i D5i C5i F4i F4i F4i F3i F4i F4i 
+V2 Rw. Rs C5w. Rq Rs C6s B5s A5q B5q C3w E4q E4q D4q D4q G4i G4i A4i G4i G4i G4i A4i G4i C5i C5i C4q C5i C5i C4q G4i G4i A4i G4i G4i G4i A4i G4i C5i C5i C4q C5i C5i C4q C5i C5i D5i F4i C5i 
+V3 Rw. Rh Ri E6i F6q A5i A5i A5i A5i G3w B5q. C6i C6q Rq A4q A4q G4q G4q E6q. G5i G5q. G5i A5i C6i F4q C4q F4q E6q. G5i G5q. G5i A5i C6i F4q C4q F4q F6q. C5i A5i 
+V4 Rw. Rw Ri A5i A5i A5i B5q. Rh Ri D6q. C6i C6q Rq C5q C5i C5i B4i B4i B4i D4i E6q. G5i G5q. G5i A5i C6i A4i A4i F4q A4i D6i E6q. G5i G5q. G5i A5i C6i A4i A4i F4q A4i E6i F6q. A5i A5i 
+V5 Rw. Rw. B5q. Rh Ri D6q. E6i E6q Rq E5q E5i E5i D5i D5i D5i B4i E4q E4q E4q E4q C4q C5i C5i A4i A4i C5i D6i E4q E4q E4q E4q C4q C5i C5i A4i A4i C5i E6i C4q C4q C4q 
+V6 Rw. Rw. Rw Ri E4q E6i E6q Rq A3q A5i A5i G3q G5i D5i G4q G4q G4q G4q F4q F5i F5i C3q F5i A4i G4q G4q G4q G4q F4q F5i F5i C3q F5i A4i F4q F4q F4q 
+V7 Rw. Rw. Rw. Rh A5q A3q G5i G5i G3q C5i C5i C5i C5i C5i C5i C5i C5i A4i A4i Rq C5i C5i Ri C5i C5i C5i C5i C5i C5i C5i C5i C5i A4i A4i Rq C5i C5i Ri C5i A4i A4i A4i A5i A4i 
+V8 Rw. Rw. Rw. Rw Rq. G5i C3q E5i E5i G3q E5i E5i F3q Rq F5i F5i F3q E5i E5i E5i E5i G3q E5i E5i F3q Rq F5i F5i F3q C5i C5i C5i A4i C5i 
+V10 Rw. Rw. Rw. Rw. E5i E5i Rq E5i E5i Rq C5i C5i Rh Ri F5i C3q Rq E5i E5i Rq C5i C5i Rh Ri F5i F3q F5i C5i F5i 
+V11 Rw. Rw. Rw. Rw. Rw F5i F5i F3q Rw. F5i F5i F3q Rh F5i F5i Ri F5i C3q 
